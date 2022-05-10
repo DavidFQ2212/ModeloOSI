@@ -3,6 +3,9 @@
     display: inline-block;
     color: aliceblue;
 }
+a{
+    color:greenyellow;
+}
 
 body {
     background-image: url(img/fondo.jpg);
